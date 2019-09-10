@@ -1,0 +1,18 @@
+{
+  "name": "lit-element-sample",
+  "version": "1.0.0",
+  "description": "Lit Element sample",
+  "repository": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "polymer serve --port=8000 ."
+  },
+  "author": "Julian Taub",
+  "license": "MIT",
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "latest",
+    "bluebird": "^3.5.5",
+    "lit-element": "latest",
+    "whatwg-fetch": "^3.0.0"
+  }
+}
